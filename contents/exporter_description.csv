@@ -6,3 +6,4 @@ exporter_id,exporter_name,description
 
 5,RabbitMQ Exporter,new
 6,Kong Prometheus Plugin,new
+7,kube-state-metrics,new
