@@ -8,3 +8,4 @@ exporter_id,exporter_name,description
 6,Kong Prometheus Plugin,new
 7,kube-state-metrics,new
 7,kube-state-metrics,new
+7,kube-state-metrics,new
