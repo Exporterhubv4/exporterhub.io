@@ -2,5 +2,4 @@ exporter_id,exporter_name,description
 1,eBPF Exporter,new
 2,Ceph Exporter,new
 3,Grok Exporter,change
-
 4,cAdvisor Exporter,new
